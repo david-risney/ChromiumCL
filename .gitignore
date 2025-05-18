@@ -1,0 +1,41 @@
+# Node
+node_modules/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Build output
+dist/
+out/
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Env files
+.env
+.env.*
+
+# Yarn
+.yarn/
+.pnp.*
+
+# Misc
+*.tgz
+
+# Extension packaging
+*.vsix
